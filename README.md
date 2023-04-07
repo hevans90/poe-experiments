@@ -11,6 +11,8 @@ Prerequisites:
 - [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/)
 - nx CLI: (after installing yarn) `yarn global add nx`
 
+Once all of the above are installed, run `yarn` at the root of the repo to install the project dependencies.
+
 ---
 
 ## poe-web
@@ -24,6 +26,8 @@ Prerequisites:
 ## pyapp
 
 Generated with a 3rd party plugin, more info here: https://betterprogramming.pub/poetry-python-nx-monorepo-5750d8627024
+
+Run `poetry install` in `apps/pyapp` and then the following commands will work from anywhere in the repo:
 
 `nx build pyapp`
 
