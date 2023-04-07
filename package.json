@@ -30,6 +30,7 @@
     "@nrwl/react": "15.8.0",
     "@nrwl/web": "15.8.0",
     "@nrwl/workspace": "15.8.0",
+    "@nxlv/python": "^15.7.0",
     "@testing-library/react": "13.4.0",
     "@types/jest": "29.4.4",
     "@types/node": "16.11.7",
